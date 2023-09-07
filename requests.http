@@ -1,0 +1,16 @@
+###
+POST http://localhost:3000/HOTATRABAJO7/login HTTP/1.1
+Content-Type: application/json
+
+{
+   
+
+     "usuario": "String",
+   "clave": "String"
+     
+     
+}
+
+###
+GET http://localhost:3000/HOTATRABAJO7/data HTTP/1.1
+
